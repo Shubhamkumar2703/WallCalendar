@@ -1,0 +1,16 @@
+export const HOLIDAYS: Record<string, string> = {
+  "1-1": "New Year's Day",
+  "1-15": "MLK Day",
+  "2-14": "Valentine's Day",
+  "3-17": "St. Patrick's Day",
+  "4-22": "Earth Day",
+  "5-1": "May Day",
+  "6-19": "Juneteenth",
+  "7-4": "Independence Day",
+  "9-1": "Labor Day",
+  "10-31": "Halloween",
+  "11-11": "Veterans Day",
+  "11-27": "Thanksgiving",
+  "12-25": "Christmas",
+  "12-31": "New Year's Eve",
+};

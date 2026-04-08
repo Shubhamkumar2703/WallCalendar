@@ -13,5 +13,5 @@ body {
   }
 }
 .clip-path-custom {
-  clip-path: polygon(0 100%, 100% 100%, 100% 0, 60% 60%, 0 30%);
+  clip-path: polygon(0 100%, 100% 100%, 100% 0, 65% 65%, 0 40%);
 }
